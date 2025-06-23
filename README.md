@@ -95,3 +95,17 @@ The code is developed upon the following projects. Many thanks to their contribu
 - [HMR](https://github.com/akanazawa/hmr)
 
 - [pose_resnet](https://github.com/Microsoft/human-pose-estimation.pytorch)
+
+
+
+### Citation
+If you find our code or paper helps, please consider citing:
+```
+@article{
+  title={Knowledge-Embedded Transformer for 3-D Human Pose Estimation},
+  author={Shu Chen, Ying He},
+  journal={IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-11, 2025, Art no. 5031811, doi: 10.1109/TIM.2025.3569914.},
+  year={2025}
+}
+```
+
