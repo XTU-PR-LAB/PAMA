@@ -104,7 +104,7 @@ If you find our code or paper helps, please consider citing:
 @article{
   title={Knowledge-Embedded Transformer for 3-D Human Pose Estimation},
   author={Shu Chen, Ying He},
-  journal={IEEE Transactions on Instrumentation and Measurement, vol. 74, pp. 1-11, 2025, Art no. 5031811, doi: 10.1109/TIM.2025.3569914.},
+  journal={IEEE Transactions on Instrumentation and Measurement, 74 (2025), Article 5031811},
   year={2025}
 }
 ```
